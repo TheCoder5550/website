@@ -29,6 +29,12 @@ contributions:
       url: "https://github.com/figraham"
     url: "https://gist.github.com/figraham/c6633e69cefb7b14328cadd4b47ec00a"
     source: "https://gist.github.com/figraham/c6633e69cefb7b14328cadd4b47ec00a"
+  - title: "Gift wrapping - 371 bytes"
+    author:
+      name: "TC5550 (Alfons Nilsson)"
+      url: "https://aaserver.net"
+    url: "https://codepen.io/TC5550/full/QXeOwb"
+    source: "https://codepen.io/TC5550/pen/QXeOwb"
 ---
 
 In this coding challenge, I implement the "Gift Wrapping algorithm" (aka Jarvis march) for calculating a convex hull in JavaScript. This is a foundational topic in computational geometry!
